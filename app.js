@@ -13,32 +13,42 @@ const k = document.getElementById("k");
 const l = document.getElementById("l");
 
 
-a.addEventListener("keypress",()=>{
+a.addEventListener("click",()=>{
     boom.play();
+    audio.currentTime = 0;
 })
 s.addEventListener("click",()=>{
     clap.play();
+    audio.currentTime = 0;
+
 })
 d.addEventListener("click",()=>{
     hihat.play();
+    audio.currentTime = 0;
 })
 f.addEventListener("click",()=>{
     kick.play();
+    audio.currentTime = 0;
 })
 g.addEventListener("click",()=>{
     openhat.play();
+    audio.currentTime = 0;
 })
 h.addEventListener("click",()=>{
     ride.play();
+    audio.currentTime = 0;
 })
 j.addEventListener("click",()=>{
     snare.play();
+    audio.currentTime = 0;
 })
 k.addEventListener("click",()=>{
     tink.play();
+    audio.currentTime = 0;
 })
 l.addEventListener("click",()=>{
     tom.play();
+    audio.currentTime = 0;a
 })
 
 window.addEventListener("keypress",(e)=>{
