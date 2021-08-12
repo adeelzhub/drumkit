@@ -58,7 +58,7 @@ k.addEventListener("click",()=>{
 })
 l.addEventListener("click",()=>{
     tom.play();
-    audio.currentTime = 0;a
+    audio.currentTime = 0;
 })
 
 window.addEventListener("keypress",(e)=>{
