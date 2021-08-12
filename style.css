@@ -43,7 +43,6 @@ main{
     display: flex;
     flex-wrap: wrap;
 }
-
 .block{
     display: fixed;
     color: rgb(63, 127, 191,0);

@@ -67,17 +67,6 @@ window.addEventListener("keypress",(e)=>{
 
 
 
-
-// const blocks = document.getElementById("blocks");
-// const btn = document.getElementById("btn");
-// btn.addEventListener("click",()=>{
-//     if(blocks.style.display !="none"){
-//         blocks.style.display = "none"
-//     }else{
-//         blocks.style.display = "flex"
-//     }
-// })
-
 // Declaring some more variables
 
 const b0 = document.getElementById("b0")
