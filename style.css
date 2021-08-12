@@ -45,7 +45,7 @@ main{
 }
 .block{
     display: fixed;
-    color: rgb(63, 127, 191,0);
+    color: rgb(63, 127, 191);
     border: 1px solid rgb(63, 127, 191,0);
     margin: 0px;
     height: 2%;
