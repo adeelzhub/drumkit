@@ -81,7 +81,7 @@ window.addEventListener("keypress",(e)=>{
     }else if(e.key == "l"){
         tom.play();
     }else{
-        alert("Get some rest, you look tired.")
+        alert("Not a valid key.")
     }
     })
 
