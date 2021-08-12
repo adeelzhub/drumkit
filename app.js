@@ -12,6 +12,16 @@ const j = document.getElementById("j");
 const k = document.getElementById("k");
 const l = document.getElementById("l");
 
+const boom = document.getElementById("boom");
+const clap = document.getElementById("clap");
+const hihat = document.getElementById("hihat");
+const kick = document.getElementById("kick");
+const openhat = document.getElementById("openhat");
+const ride = document.getElementById("ride");
+const snare = document.getElementById("snare");
+const tink = document.getElementById("tink");
+const tom = document.getElementById("tom");
+
 
 a.addEventListener("click",()=>{
     boom.play();
@@ -663,15 +673,7 @@ const b579 = document.getElementById("b579")
 
 
 
-const boom = document.getElementById("boom");
-const clap = document.getElementById("clap");
-const hihat = document.getElementById("hihat");
-const kick = document.getElementById("kick");
-const openhat = document.getElementById("openhat");
-const ride = document.getElementById("ride");
-const snare = document.getElementById("snare");
-const tink = document.getElementById("tink");
-const tom = document.getElementById("tom");
+
 
 
 // tink sound
